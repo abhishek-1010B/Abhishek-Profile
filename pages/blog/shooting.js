@@ -7,8 +7,7 @@ export default function shooting() {
               <img
                 alt="content"
                 class="object-cover object-center h-full w-full"
-                src="https://dummyimage.com/1200x500"
-              />
+                src="https://dummyimage.com/1200x500"/>
             </div>
             <div class="flex flex-col sm:flex-row mt-10">
               <div class="sm:w-1/3 text-center sm:pr-8 sm:py-8">
