@@ -26,7 +26,7 @@ function Blog() {
                 </p>
                 <div class="flex items-center flex-wrap ">
                   <Link
-                    href=""
+                    href="blog/the-catalyzer"
                     class="text-indigo-500 inline-flex items-center md:mb-2 lg:mb-0"
                   >
                     Learn More
@@ -55,7 +55,7 @@ function Blog() {
                 </p>
                 <div class="flex items-center flex-wrap">
                   <Link
-                    href=""
+                    href="blog/The400"
                     class="text-indigo-500 inline-flex items-center md:mb-2 lg:mb-0"
                   >
                     Learn More
@@ -84,7 +84,7 @@ function Blog() {
                 </p>
                 <div class="flex items-center flex-wrap ">
                   <Link
-                    href=""
+                    href="blog/shooting"
                     class="text-indigo-500 inline-flex items-center md:mb-2 lg:mb-0"
                   >
                     Learn More
